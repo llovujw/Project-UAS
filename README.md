@@ -18,7 +18,7 @@ format dictionary
 - Program harus menghitung total harga makanan yang dipesan
 - Program harus menampilkan struk pembelian
 
-### 1. List opsi pilihan makanan/minuman dan aksi, bisa menggunakan format dictionary `menu = "Nasi Goreng": 15000, "Mie Goreng": 12000, "Ayam Goreng": 18000, "Es Teh": 5000, "Es Jeruk": 6000, "Air Mineral": 3000"`
+### 1. List opsi pilihan makanan/minuman dan aksi, bisa menggunakan format dictionary `menu`
 
 ``` Python
 menu = {
