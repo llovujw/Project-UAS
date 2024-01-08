@@ -97,6 +97,10 @@ Setiap kali dalam loop, pengguna diminta untuk memasukkan pilihan mereka.
 if __name__ == "__main__":
     main()
 ```
+
 ### Penjelasan
 - Setelah pengguna selesai dengan pesanan, total harga dari pesanan dihitung menggunakan fungsi `hitung_total()`, dengan menggunakan `pesanan` sebagai argumen.
 - Fungsi `tampilkan_struk()` dipanggil untuk menampilkan struk pembelian berdasarkan pesanan yang telah dibuat dan total harga yang dihitung.
+
+#### Tampilan output `hitung_total()` dan `tampilkan_struk()` :
+![2](screenshot/ss2.png)
